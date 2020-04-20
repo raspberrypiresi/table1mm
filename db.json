@@ -1,53 +1,39 @@
 {
-   "resiInfo":[  
-      {  
-         "icon":"fa-clock-o",
-         "info":"Check-In",
-         "value":"ab/from 15.00"
-      },
-      {  
-         "icon":"fa-clock-o",
-         "info":"Check-Out",
-         "value":"bis/untill 10.30"
-      },
-      {  
-         "info":"Residenz Seeterrasse"
-      },
-      {  
-         "icon":"fa-coffee",
-         "info":"Frühstück/Breakfast",
-         "value":"07.30 - 10.00"
-      },
-      {  
-         "icon":"fa-cutlery",
-         "info":"Mittagessen/Lunch",
-         "value":"12.00 - 14.00"
-      },
-      {  
-         "icon":"fa-cutlery",
-         "info":"Abendessen/Dinner",
-         "value":"18.00 - 21.00"
-      },
-      {  
-         "icon":"fa-laptop",
-         "info":"Rezeption/Reception",
-         "value":"08.00 - 14.00"
-      },
-      {  
-         "icon":"fa-cutlery",
-         "info":"Pizzeria Seeterrasse",
-         "value":"Gebacken wird von 12.00 - 14.30 Uhr"
-         
-      },
-      {  
-         "icon":"fa-cutlery",
-         "info":"& von 17.30 - 21.00 Uhr.",
-         "value":"Donnerstags und bei schlechte"
-      },
-      {  
-         "icon":"fa-cutlery",
-         "info":"Witterung bleibt der Ofen kalt."
-      }
-       
-   ]
+    "ausflug": [
+        {
+            "name": "Fischerhaus und Pfahlbauten Wangen",
+            "data": "UNESCO Weltkulturerbe",
+            "location": "100m von der Residenz"
+        },
+        {
+            "name": "Bootsstüble Wangen",
+            "data": "Bootsverleih, geführte Touren & Veranstaltungen",
+            "location": "20m über die Straße"
+        },
+        {
+            "name": "Fahrradverleih Rückenwind in Öhningen",
+            "data": "Fahrräder und E-Bikes zum mieten",
+            "location": "5 min mit dem Auto"
+        },
+        {
+            "name": "Stein am Rhein & Burg Hohenklingen",
+            "data": "Schönes altes Städchen, alte Burg mit schönem Ausblick",
+            "location": "10 min mit dem Auto"
+        },
+        {
+            "name": "Rheinfall Schaffhausen",
+            "data": "wasserreichster Wasserfall Europas",
+            "location": "30 min mit dem Auto"
+        },
+        {
+            "name": "Napoleonmuseum Schloss Arenenberg",
+            "data": "gegenüber der Reichenau thront das Schloss",
+            "location": "30 min mit dem Auto"
+        },
+        {
+            "name": "Hermann Hesse Museum Gaienhofen",
+            "data": "Schriftsteller und Literaturnobelpreisträger",
+            "location": "10 min mit dem Auto"
+        }
+    ]
 }
